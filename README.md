@@ -1,10 +1,10 @@
 ## Professional Experience 
 
-- Demand forecast and optimization
-- Personalization, ranking and recommender System
-- Domain knowledge in logistics and commerce
-- Ads effectiveness evaluation and optimization
-- Product usage and behavior pattern Analysis
+- Demand Forecast and Optimization
+- Personalization, Ranking and Recommender system
+- Domain Knowledge in Logistics and E-Commerce
+- Ads Effectiveness Evaluation and Spending optimization
+- Product Usage and Behavior Pattern Analysis
 - SQL, Python, PySpark, Tableau, Redash, Github, Machine Learning, Statistics
 - A team leader of data science team from the ground up, comprising 10 members, including Data Scientists and MLOps Engineers.
 
